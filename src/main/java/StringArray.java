@@ -18,7 +18,7 @@ public class StringArray {
 
 
         // Declaring an ArrayList of Strings
-        ArrayList<String> names = new ArrayList<>();
+        ArrayList <String>  names = new ArrayList<>();
 
         // Adding elements to the ArrayList
         names.add("John");// index 0
@@ -26,7 +26,7 @@ public class StringArray {
         names.add("Jim"); //2
         names.add("Jerry");
         names.add(2, "Jack");//4
-       // names.
+
 
 
 
